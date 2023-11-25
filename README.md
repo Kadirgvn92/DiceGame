@@ -1,3 +1,4 @@
 # DiceGame
 I created Dice Game with Dr.Angela Yu Udemy Course
-<img src="resim_dosyasinin_adi.png" height="500">
+<hr/>
+<p align="center"> <img src="image.png" height="500"> </p>
